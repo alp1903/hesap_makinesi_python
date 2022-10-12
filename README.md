@@ -1,1 +1,1 @@
-# hesap_makinesi_python
+Merhaba Python eğitimim için yaptığım bir program.
